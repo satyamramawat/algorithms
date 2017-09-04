@@ -1,2 +1,2 @@
 # algorithms
-Data Structures Algorithms in JAVA
+Data Structures Algorithms in C and JAVA
